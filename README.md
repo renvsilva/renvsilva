@@ -1,5 +1,5 @@
 # Seja bem vindo a minha página no GitHub!
-###### [Histórico de Commits](https://github.com/delsschoolaccount/Apresentacao/commits/main)
+###### [Histórico de Commits](https://github.com/renvsilva/Apresentacao/commits/main)
 
 ## Sobre mim
 
@@ -11,7 +11,9 @@ Estou atualmente estudando sobre
 
 ## Linguagens & Software
 ### Linguagens
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ### Software
 #### Código
@@ -32,6 +34,6 @@ Tenho o objetivo ambicioso de aprender mais de 5 linguagens de programação, fa
 
 ## Diversos
 
-![Estatisticas de Del no GitHub](https://github-readme-stats.vercel.app/api?username=delsschoolaccount&theme=transparent&show_icons=true)
+![Estatisticas de Del no GitHub](https://github-readme-stats.vercel.app/api?username=renvsilva&theme=transparent&show_icons=true)
 
-![](https://img.shields.io/github/followers/delsschoolaccount?label=follow&style=social)
+![](https://img.shields.io/github/followers/renvsilva?label=follow&style=social)
