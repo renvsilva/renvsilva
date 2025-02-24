@@ -1,7 +1,7 @@
 # Seja bem vindo a minha página no GitHub!
 ###### [Histórico de Commits](https://github.com/renvsilva/commits/main)
 
-![](https://img.shields.io/github/followers/renvsilva?label=follow&style=social
+![] (https://img.shields.io/github/followers/renvsilva?label=follow&style=social
 
 ## Sobre mim
 
