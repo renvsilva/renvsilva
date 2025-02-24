@@ -1,5 +1,5 @@
 # Seja bem vindo a minha página no GitHub!
-###### [Histórico de Commits](https://github.com/renvsilva/commits/main)
+###### [Histórico de Commits](https://github.com/renvsilva/commits/projetosEtec/main)
 
 ![](https://img.shields.io/github/followers/renvsilva?label=follow&style=social)
 
