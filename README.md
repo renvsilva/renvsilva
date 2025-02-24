@@ -1,7 +1,7 @@
 # Seja bem vindo a minha página no GitHub!
 ###### [Histórico de Commits](https://github.com/renvsilva/commits/main)
 
-![] (https://img.shields.io/github/followers/renvsilva?label=follow&style=social
+![](https://img.shields.io/github/followers/renvsilva?label=follow&style=social)
 
 ## Sobre mim
 
@@ -36,5 +36,3 @@ Tenho o objetivo ambicioso de aprender mais de 5 linguagens de programação, fa
 ## Diversos
 
 ![Estatisticas de Del no GitHub](https://github-readme-stats.vercel.app/api?username=renvsilva&theme=transparent&show_icons=true)
-
-)
